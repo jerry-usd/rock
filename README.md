@@ -20,7 +20,7 @@ https://deniji.xyz/projects/rock
 5. Admin can add, edit & delete products with images
 6. Admins can view & fulfill orders 
 7. Admin can search products wity ID
-8. AdmIN Can ad product with variant size
+8. Admin can add product with variant size
 
 
 ##### Payment gateway
